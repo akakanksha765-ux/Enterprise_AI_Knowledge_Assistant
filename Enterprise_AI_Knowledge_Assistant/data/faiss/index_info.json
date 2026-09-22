@@ -1,0 +1,40 @@
+{
+    "created_at": "2026-08-09T12:48:42.056888",
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "document_count": 6,
+    "chunk_count": 55,
+    "files": [
+        {
+            "name": "BI_Glossary.pdf",
+            "size": 26194,
+            "modified": 1785246838.6986358
+        },
+        {
+            "name": "Business_FAQ.pdf",
+            "size": 34124,
+            "modified": 1785246826.5295105
+        },
+        {
+            "name": "Business_Policies.pdf",
+            "size": 27116,
+            "modified": 1785246804.5344646
+        },
+        {
+            "name": "Company_Overview.pdf",
+            "size": 23127,
+            "modified": 1785246774.9154027
+        },
+        {
+            "name": "Northwind_Annual_Report_2025.pdf",
+            "size": 20078,
+            "modified": 1786196418.9628854
+        },
+        {
+            "name": "Northwind_IT_Policy.pdf",
+            "size": 23377,
+            "modified": 1786196170.9750578
+        }
+    ]
+}

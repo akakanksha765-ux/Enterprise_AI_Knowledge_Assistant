@@ -1,0 +1,29 @@
+2026-08-11 12:10:05.665 | INFO     | src.vector_store:initialize_vector_store:208 - Loading existing index...
+2026-08-11 12:23:38.102 | INFO     | src.vector_store:initialize_vector_store:207 - Loading existing index...
+2026-08-11 17:03:27.058 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:03:27.195 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:04:26.671 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:04:28.761 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:06:15.815 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:19:27.636 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:19:29.508 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:20:43.988 | INFO     | src.vector_store:initialize_vector_store:214 - Loading existing index...
+2026-08-11 17:21:30.344 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-11 17:21:56.307 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:28:35.634 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:28:35.882 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:29:59.518 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:33:53.078 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:33:53.369 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:34:08.466 | INFO     | src.vector_store:initialize_vector_store:214 - Loading existing index...
+2026-08-12 11:34:54.436 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:35:16.030 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:35:16.149 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:48:01.466 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:48:01.674 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:48:29.324 | INFO     | src.vector_store:initialize_vector_store:214 - Loading existing index...
+2026-08-12 11:49:13.212 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:50:15.697 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:53:29.705 | INFO     | src.vector_store:initialize_vector_store:214 - Loading existing index...
+2026-08-12 11:53:39.822 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
+2026-08-12 11:53:56.297 | INFO     | src.api:dispatch:66 - %s %s -> %d (%.2f ms)
